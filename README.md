@@ -1,6 +1,6 @@
 # vLLM Tool Calling Experiments
 
-This directory contains experiments for testing tool calling with vLLM and GPT-OSS-120B on H200 GPUs.
+This directory contains experiments for testing tool calling with vLLM.
 
 ## Quick Start
 
